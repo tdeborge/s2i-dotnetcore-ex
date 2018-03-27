@@ -12,7 +12,7 @@ the official
 https://docs.openshift.com/enterprise/latest/using_images/s2i_images/dot_net_core.html[OpenShift
 Documentation].
 
-= Building and Running 
+= Building and Running tim
 
 The sample application can be built and run either within OpenShift or
 standalone by combining the application using s2i tool and running with
